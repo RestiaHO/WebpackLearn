@@ -27,5 +27,5 @@ webpack 通过 loader 可以支持各种语言和预处理器编写模块。load
 - Stylus
 
 总的来说，webpack 提供了可定制的、强大和丰富的 API，允许任何技术栈使用 webpack，保持了在你的开发、测试和生成流程中无侵入性(non-opinionated)。
-有关完整列表，请参考 loader 列表 或 自己编写。*在LOADERS中a详细描述*
+有关完整列表，请参考 loader 列表 或 自己编写。*在LOADERS中详细描述*
 
